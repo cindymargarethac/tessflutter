@@ -9,4 +9,10 @@ void main() {
   var stringFromInt = inputInt.toString();
   var stringFromDouble = inputDouble.toString();
 
+/**Konversi Boolean dan String */
+
+var inputBool = inputString == 'true';
+
+var stringFromBool = inputBool.toString();
+
 }
